@@ -2,6 +2,6 @@ const {add} = require('./index')
 
 describe('add', () => {
     it('should work', () =>{
-        expect(add(2,6)).toBe(4)
+        expect(add(2,2)).toBe(4)
     })
 })
