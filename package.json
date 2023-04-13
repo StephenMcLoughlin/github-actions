@@ -1,0 +1,13 @@
+{
+  "name": "github-actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:StephenMcLoughlin/github-actions.git",
+  "license": "MIT",
+  "scripts" :{
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
