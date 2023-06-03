@@ -1,6 +1,6 @@
 name: Test Pull Request
 
-on
+on:
   push:
     branches:
       - dev
