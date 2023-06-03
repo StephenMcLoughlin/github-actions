@@ -9,6 +9,7 @@ from src.lambda_function import add
 def test_add():
     assert add(2,2) == 4
     assert add(2,5) == 7
+    assert add(3,4) == 7
 
 
 
